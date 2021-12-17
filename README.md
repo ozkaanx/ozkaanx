@@ -11,6 +11,6 @@
 
 
 ### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/ozkaanx) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/ozkan-ttr/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='15'>](https://www.instagram.com/ozkaan14/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/ozkaan14)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/ozkan-ttr/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='15'>](https://www.instagram.com/ozkaan14/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/ozkaan14)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkaanx)
