@@ -1,6 +1,7 @@
 ### Hi I'm Ozkan 👋
+#### I enjoy learning new things in the Front End world, constantly updating myself, and writing code.
 
-### 🛠 Tech Stack
+### Tech Stack
 
 ![image](https://user-images.githubusercontent.com/66062104/134925400-eef7acb9-ec20-493f-8893-26a923086525.png)
 ![image](https://user-images.githubusercontent.com/66062104/134925425-49aa915c-f38b-4e0e-b632-9302a5e48e95.png)
@@ -9,5 +10,7 @@
 ![image](https://user-images.githubusercontent.com/66062104/134925530-2ec0e3a0-1695-450c-bd01-a6e51b76e01e.png)
 
 
+### Contact Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='15'>](https://github.com/ozkaanx) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/ozkan-ttr/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='15'>](https://www.instagram.com/ozkaan14/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/ozkaan14)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkaanx)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkaanx)
