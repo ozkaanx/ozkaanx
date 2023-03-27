@@ -1,5 +1,5 @@
 ### Hi I'm Ozkan 👋
-#### I enjoy learning new things in the Front End world, constantly updating myself, and writing code.
+####  Developer Only
 
 ### Tech Stack
 
@@ -11,8 +11,7 @@
 
 
 ### Contact Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/ozkan-ttr/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='15'>](https://www.instagram.com/ozkaan14/) &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/ozkaan14)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/ozkan-ttr/) &nbsp;[<img &nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='15'>](https://twitter.com/ozkaan14)
 
-#### My web site : http://ozdev.art/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozkaanx)
